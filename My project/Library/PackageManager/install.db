@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "94af2d06fce5",
+        "mtime": 1682898575413,
+        "size": 8319303,
+        "localPath": "D:\\Studia\\8semestr\\Virtual\\HoloFacetab\\My project\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.2.1.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "43abb40aaee4",
+        "mtime": 1682898578603,
+        "size": 8657235,
+        "localPath": "D:\\Studia\\8semestr\\Virtual\\HoloFacetab\\My project\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.7.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "adfb62d90919",
+        "mtime": 1682898574271,
+        "size": 4693217,
+        "localPath": "D:\\Studia\\8semestr\\Virtual\\HoloFacetab\\My project\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.7.0.tgz"
+      }
+    }
+  }
+}

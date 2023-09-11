@@ -1,0 +1,317 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+// 0x00000001 System.Void HighlightOnTouch::Start()
+extern void HighlightOnTouch_Start_m1883C13D1DB4E3BE4CA752E4B50984EF7B9FC49E (void);
+// 0x00000002 System.Void HighlightOnTouch::OnPointerDown(Microsoft.MixedReality.Toolkit.Input.MixedRealityPointerEventData)
+extern void HighlightOnTouch_OnPointerDown_mB3532E3B86F7F35C63B4CE8A7FE7222B5EF33626 (void);
+// 0x00000003 System.Void HighlightOnTouch::OnPointerUp(Microsoft.MixedReality.Toolkit.Input.MixedRealityPointerEventData)
+extern void HighlightOnTouch_OnPointerUp_m6FA1BC7F0D033E3BC93E423EC95A53B5C3779F1D (void);
+// 0x00000004 System.Void HighlightOnTouch::OnPointerClicked(Microsoft.MixedReality.Toolkit.Input.MixedRealityPointerEventData)
+extern void HighlightOnTouch_OnPointerClicked_m371CCB3F1F6562126ECE07A3B1B9280E9E711E87 (void);
+// 0x00000005 System.Void HighlightOnTouch::OnPointerDragged(Microsoft.MixedReality.Toolkit.Input.MixedRealityPointerEventData)
+extern void HighlightOnTouch_OnPointerDragged_mDE8633EA1DEDF409BC7E5A0D5568DEAD895F81DF (void);
+// 0x00000006 System.Void HighlightOnTouch::OnMouseDown()
+extern void HighlightOnTouch_OnMouseDown_m3F4892B98A92BFDF69993783FB41C96F3167C776 (void);
+// 0x00000007 System.Void HighlightOnTouch::.ctor()
+extern void HighlightOnTouch__ctor_mB3B409BA3AEAEE03B4DC7EAA10084422C80EF6EF (void);
+// 0x00000008 System.Void MemoryGame::Start()
+extern void MemoryGame_Start_mE04B005A719056C349337FC0B5C68DFFD2CAAA74 (void);
+// 0x00000009 System.Void MemoryGame::StartNewRound()
+extern void MemoryGame_StartNewRound_m34CD953E057056D5AC70EF3778D86B7FB09A9681 (void);
+// 0x0000000A System.Void MemoryGame::AddToSequence()
+extern void MemoryGame_AddToSequence_mBA505B6F80696D520F8E3E821AEF747BF2155188 (void);
+// 0x0000000B System.Collections.IEnumerator MemoryGame::ShowSequence()
+extern void MemoryGame_ShowSequence_m8AEEC7B6D549D1FA8B75969B4EAD4414D86FAD0F (void);
+// 0x0000000C System.Void MemoryGame::CubeTouched(System.Int32)
+extern void MemoryGame_CubeTouched_mD0A05F97F8B8160B7AD5471D54EF5C5EB0952DE3 (void);
+// 0x0000000D System.Void MemoryGame::CheckPlayerSequence()
+extern void MemoryGame_CheckPlayerSequence_mB137C031C585A3443F036830BA9B7C4EA0A5E626 (void);
+// 0x0000000E System.Void MemoryGame::GameOver()
+extern void MemoryGame_GameOver_mA3ED86E37B669EC000A72230049D1921888971EC (void);
+// 0x0000000F System.Void MemoryGame::.ctor()
+extern void MemoryGame__ctor_m11474A8689F3E74BFC9DF3133CBAF94FBE5E2D0C (void);
+// 0x00000010 System.Void MemoryGame/<ShowSequence>d__15::.ctor(System.Int32)
+extern void U3CShowSequenceU3Ed__15__ctor_m48F64D7CE45EFF19F85F5242F6136B77EEAD6D2D (void);
+// 0x00000011 System.Void MemoryGame/<ShowSequence>d__15::System.IDisposable.Dispose()
+extern void U3CShowSequenceU3Ed__15_System_IDisposable_Dispose_mA8176751F00B3C8C73D97030C9BC127DF8D05DCF (void);
+// 0x00000012 System.Boolean MemoryGame/<ShowSequence>d__15::MoveNext()
+extern void U3CShowSequenceU3Ed__15_MoveNext_mCBE7EC79BF5F8FAD7638285D690D7A975E4C5BCB (void);
+// 0x00000013 System.Void MemoryGame/<ShowSequence>d__15::<>m__Finally1()
+extern void U3CShowSequenceU3Ed__15_U3CU3Em__Finally1_m508AA8AAECA91C85D445FCCA37642010AEE33E7E (void);
+// 0x00000014 System.Object MemoryGame/<ShowSequence>d__15::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CShowSequenceU3Ed__15_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mAFA92DCDFC14097D57913178CD507AAE4AC106FF (void);
+// 0x00000015 System.Void MemoryGame/<ShowSequence>d__15::System.Collections.IEnumerator.Reset()
+extern void U3CShowSequenceU3Ed__15_System_Collections_IEnumerator_Reset_mFF13E1D0A49B4E066E5FFADE6EB348779102E7F1 (void);
+// 0x00000016 System.Object MemoryGame/<ShowSequence>d__15::System.Collections.IEnumerator.get_Current()
+extern void U3CShowSequenceU3Ed__15_System_Collections_IEnumerator_get_Current_m916E05384DC45D92B6B986A1D222529DCEF0098D (void);
+// 0x00000017 System.Void MRTK.Tutorials.GettingStarted.DirectionalIndicatorController::OnBecameInvisible()
+extern void DirectionalIndicatorController_OnBecameInvisible_m81BAC96F24A8B8FD38A5A1B399194F4E2E9CF353 (void);
+// 0x00000018 System.Void MRTK.Tutorials.GettingStarted.DirectionalIndicatorController::.ctor()
+extern void DirectionalIndicatorController__ctor_mAF93D393485CD7937E4F0A049CAE0D80D17AA0C2 (void);
+// 0x00000019 System.Void MRTK.Tutorials.GettingStarted.ExplodeViewController::set_IsPunEnabled(System.Boolean)
+extern void ExplodeViewController_set_IsPunEnabled_m9B9F54E404B03478F23B116EBDA6D22729947B1C (void);
+// 0x0000001A System.Void MRTK.Tutorials.GettingStarted.ExplodeViewController::Start()
+extern void ExplodeViewController_Start_mEBCA23758FC99609617CEE99E5CC6AD1A8E8DD28 (void);
+// 0x0000001B System.Void MRTK.Tutorials.GettingStarted.ExplodeViewController::Update()
+extern void ExplodeViewController_Update_m68272F7CABAE057B7402902EACC742A5FD11B266 (void);
+// 0x0000001C System.Void MRTK.Tutorials.GettingStarted.ExplodeViewController::ToggleExplodedView()
+extern void ExplodeViewController_ToggleExplodedView_m59FB613ADA832339B088AF41B27DF25C59EB6E68 (void);
+// 0x0000001D System.Void MRTK.Tutorials.GettingStarted.ExplodeViewController::Toggle()
+extern void ExplodeViewController_Toggle_mC19D29CA70BFBE320678DC27565EED8AE3775011 (void);
+// 0x0000001E System.Void MRTK.Tutorials.GettingStarted.ExplodeViewController::add_OnToggleExplodedView(MRTK.Tutorials.GettingStarted.ExplodeViewController/ExplodeViewControllerDelegate)
+extern void ExplodeViewController_add_OnToggleExplodedView_m7B7C12027D19E16A6E136FB760FB843493F87FB5 (void);
+// 0x0000001F System.Void MRTK.Tutorials.GettingStarted.ExplodeViewController::remove_OnToggleExplodedView(MRTK.Tutorials.GettingStarted.ExplodeViewController/ExplodeViewControllerDelegate)
+extern void ExplodeViewController_remove_OnToggleExplodedView_m6D5BED15516C033624058FA746BD3E7A630B738B (void);
+// 0x00000020 System.Void MRTK.Tutorials.GettingStarted.ExplodeViewController::.ctor()
+extern void ExplodeViewController__ctor_m6B9698AB8508AB45BA9EFE8C003A368F956A39C9 (void);
+// 0x00000021 System.Void MRTK.Tutorials.GettingStarted.ExplodeViewController/ExplodeViewControllerDelegate::.ctor(System.Object,System.IntPtr)
+extern void ExplodeViewControllerDelegate__ctor_m00CF199628C294EC4C78DB6BCFE9CA99F31E1187 (void);
+// 0x00000022 System.Void MRTK.Tutorials.GettingStarted.ExplodeViewController/ExplodeViewControllerDelegate::Invoke()
+extern void ExplodeViewControllerDelegate_Invoke_m9475EC90F8EABC05D3124071E6AC55FA93C56D16 (void);
+// 0x00000023 System.IAsyncResult MRTK.Tutorials.GettingStarted.ExplodeViewController/ExplodeViewControllerDelegate::BeginInvoke(System.AsyncCallback,System.Object)
+extern void ExplodeViewControllerDelegate_BeginInvoke_m4CE6E375D997DAAA0E3FAFF36F4700838C51D958 (void);
+// 0x00000024 System.Void MRTK.Tutorials.GettingStarted.ExplodeViewController/ExplodeViewControllerDelegate::EndInvoke(System.IAsyncResult)
+extern void ExplodeViewControllerDelegate_EndInvoke_m073ACDB10BEA116E55E112E082F114D15ADECD76 (void);
+// 0x00000025 System.Void MRTK.Tutorials.GettingStarted.PartAssemblyController::set_IsPunEnabled(System.Boolean)
+extern void PartAssemblyController_set_IsPunEnabled_m3B2755FC9F412A9A80F00E881A43C9E3D71259BD (void);
+// 0x00000026 System.Void MRTK.Tutorials.GettingStarted.PartAssemblyController::Start()
+extern void PartAssemblyController_Start_m7662EBE3717584F93527DFF47EBFF7B17E3CAE74 (void);
+// 0x00000027 System.Void MRTK.Tutorials.GettingStarted.PartAssemblyController::SetPlacement()
+extern void PartAssemblyController_SetPlacement_m3753B2A0342CD8A54914FFAD1B38D887F1C504C9 (void);
+// 0x00000028 System.Void MRTK.Tutorials.GettingStarted.PartAssemblyController::Set()
+extern void PartAssemblyController_Set_m78C7CE4286BD0961DA1318A24C6EA8692CAF18CF (void);
+// 0x00000029 System.Void MRTK.Tutorials.GettingStarted.PartAssemblyController::ResetPlacement()
+extern void PartAssemblyController_ResetPlacement_m87A7AB3C4C5D3C539EDAB43011E775BC5C6D1646 (void);
+// 0x0000002A System.Void MRTK.Tutorials.GettingStarted.PartAssemblyController::Reset()
+extern void PartAssemblyController_Reset_m3F1C2A8DEC7F886D75DB1B37F406AA7932399AB5 (void);
+// 0x0000002B System.Collections.IEnumerator MRTK.Tutorials.GettingStarted.PartAssemblyController::CheckPlacement()
+extern void PartAssemblyController_CheckPlacement_mCD2226DB9D0976415A580C7B4D161A5B0C087D96 (void);
+// 0x0000002C System.Void MRTK.Tutorials.GettingStarted.PartAssemblyController::add_OnResetPlacement(MRTK.Tutorials.GettingStarted.PartAssemblyController/PartAssemblyControllerDelegate)
+extern void PartAssemblyController_add_OnResetPlacement_m05594F373CAAF81B52DCE6B53F7080535AF36A6C (void);
+// 0x0000002D System.Void MRTK.Tutorials.GettingStarted.PartAssemblyController::remove_OnResetPlacement(MRTK.Tutorials.GettingStarted.PartAssemblyController/PartAssemblyControllerDelegate)
+extern void PartAssemblyController_remove_OnResetPlacement_mED257FFBB650024D91B8441D3BD45A8173FCFED2 (void);
+// 0x0000002E System.Void MRTK.Tutorials.GettingStarted.PartAssemblyController::add_OnSetPlacement(MRTK.Tutorials.GettingStarted.PartAssemblyController/PartAssemblyControllerDelegate)
+extern void PartAssemblyController_add_OnSetPlacement_mB02D746A05D3A8CF8260832887C55D53D74649DC (void);
+// 0x0000002F System.Void MRTK.Tutorials.GettingStarted.PartAssemblyController::remove_OnSetPlacement(MRTK.Tutorials.GettingStarted.PartAssemblyController/PartAssemblyControllerDelegate)
+extern void PartAssemblyController_remove_OnSetPlacement_m6EDB130CABBA27EF6539D4A22EF2B451462458BA (void);
+// 0x00000030 System.Void MRTK.Tutorials.GettingStarted.PartAssemblyController::.ctor()
+extern void PartAssemblyController__ctor_m4C1B83FE2E3CF9F06A2AF8F5D366BBCDECA4B5AC (void);
+// 0x00000031 System.Void MRTK.Tutorials.GettingStarted.PartAssemblyController/PartAssemblyControllerDelegate::.ctor(System.Object,System.IntPtr)
+extern void PartAssemblyControllerDelegate__ctor_m7F2B8D7A6D04834696B8F6F71E84D644D99B68EF (void);
+// 0x00000032 System.Void MRTK.Tutorials.GettingStarted.PartAssemblyController/PartAssemblyControllerDelegate::Invoke()
+extern void PartAssemblyControllerDelegate_Invoke_mC5F3437F064E32947FFAB510C33A36A1AD8A059C (void);
+// 0x00000033 System.IAsyncResult MRTK.Tutorials.GettingStarted.PartAssemblyController/PartAssemblyControllerDelegate::BeginInvoke(System.AsyncCallback,System.Object)
+extern void PartAssemblyControllerDelegate_BeginInvoke_m7671440389FDAA059E71ADFF712A82E1AD7B8CEB (void);
+// 0x00000034 System.Void MRTK.Tutorials.GettingStarted.PartAssemblyController/PartAssemblyControllerDelegate::EndInvoke(System.IAsyncResult)
+extern void PartAssemblyControllerDelegate_EndInvoke_m09C63B12E14C3681A69C6DC62AFFE9C77685B03C (void);
+// 0x00000035 System.Void MRTK.Tutorials.GettingStarted.PartAssemblyController/<CheckPlacement>d__25::.ctor(System.Int32)
+extern void U3CCheckPlacementU3Ed__25__ctor_mD99D1F68A1B42D45D5E0303134EB8CDEF442F9B0 (void);
+// 0x00000036 System.Void MRTK.Tutorials.GettingStarted.PartAssemblyController/<CheckPlacement>d__25::System.IDisposable.Dispose()
+extern void U3CCheckPlacementU3Ed__25_System_IDisposable_Dispose_m0A3FD3FF6019150BD5AA2392C53BC217DB95477F (void);
+// 0x00000037 System.Boolean MRTK.Tutorials.GettingStarted.PartAssemblyController/<CheckPlacement>d__25::MoveNext()
+extern void U3CCheckPlacementU3Ed__25_MoveNext_mBEFDAA4E1B5E6C090C1C516910FE692C516319AE (void);
+// 0x00000038 System.Object MRTK.Tutorials.GettingStarted.PartAssemblyController/<CheckPlacement>d__25::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CCheckPlacementU3Ed__25_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mE0F540979B60424322B424EC85CC6A7F660C014C (void);
+// 0x00000039 System.Void MRTK.Tutorials.GettingStarted.PartAssemblyController/<CheckPlacement>d__25::System.Collections.IEnumerator.Reset()
+extern void U3CCheckPlacementU3Ed__25_System_Collections_IEnumerator_Reset_m9CFCADBFA8E2719A5D2EAED052816115B65083D4 (void);
+// 0x0000003A System.Object MRTK.Tutorials.GettingStarted.PartAssemblyController/<CheckPlacement>d__25::System.Collections.IEnumerator.get_Current()
+extern void U3CCheckPlacementU3Ed__25_System_Collections_IEnumerator_get_Current_mC1774CBAA3E10DA18E8343A526ACBA70553C607B (void);
+// 0x0000003B System.Void MRTK.Tutorials.GettingStarted.PlacementHintsController::set_IsPunEnabled(System.Boolean)
+extern void PlacementHintsController_set_IsPunEnabled_m1364F13B088427C7258B0AED579757B594B74A0E (void);
+// 0x0000003C System.Void MRTK.Tutorials.GettingStarted.PlacementHintsController::Start()
+extern void PlacementHintsController_Start_m306723AF3759666445826208B8BD76902741002F (void);
+// 0x0000003D System.Void MRTK.Tutorials.GettingStarted.PlacementHintsController::TogglePlacementHints()
+extern void PlacementHintsController_TogglePlacementHints_mF5A22F14A17D362A2FAE71EFD314A4BB14D7A28E (void);
+// 0x0000003E System.Void MRTK.Tutorials.GettingStarted.PlacementHintsController::Toggle()
+extern void PlacementHintsController_Toggle_m5285332F7C240D90986D60F15827EC5718A9FE7D (void);
+// 0x0000003F System.Void MRTK.Tutorials.GettingStarted.PlacementHintsController::add_OnTogglePlacementHints(MRTK.Tutorials.GettingStarted.PlacementHintsController/PlacementHintsControllerDelegate)
+extern void PlacementHintsController_add_OnTogglePlacementHints_m4BE517DA85E4BC9F742A80F7863D428A2F4DC931 (void);
+// 0x00000040 System.Void MRTK.Tutorials.GettingStarted.PlacementHintsController::remove_OnTogglePlacementHints(MRTK.Tutorials.GettingStarted.PlacementHintsController/PlacementHintsControllerDelegate)
+extern void PlacementHintsController_remove_OnTogglePlacementHints_mED93E45F3C670BA58DDF275DE9C576B48D51024C (void);
+// 0x00000041 System.Void MRTK.Tutorials.GettingStarted.PlacementHintsController::.ctor()
+extern void PlacementHintsController__ctor_m789398D4FEC0B3548A616A086A9CD5121B51DED0 (void);
+// 0x00000042 System.Void MRTK.Tutorials.GettingStarted.PlacementHintsController/PlacementHintsControllerDelegate::.ctor(System.Object,System.IntPtr)
+extern void PlacementHintsControllerDelegate__ctor_m6483805F57E4800C0D83C9D905A5C2CE71432B84 (void);
+// 0x00000043 System.Void MRTK.Tutorials.GettingStarted.PlacementHintsController/PlacementHintsControllerDelegate::Invoke()
+extern void PlacementHintsControllerDelegate_Invoke_mFB26FE30BE1AE37EF71E6B55861A49F1125F9554 (void);
+// 0x00000044 System.IAsyncResult MRTK.Tutorials.GettingStarted.PlacementHintsController/PlacementHintsControllerDelegate::BeginInvoke(System.AsyncCallback,System.Object)
+extern void PlacementHintsControllerDelegate_BeginInvoke_m29B9BE46FFF16EF20BC950660E42F1E0FE71F841 (void);
+// 0x00000045 System.Void MRTK.Tutorials.GettingStarted.PlacementHintsController/PlacementHintsControllerDelegate::EndInvoke(System.IAsyncResult)
+extern void PlacementHintsControllerDelegate_EndInvoke_m158B6288E2B765CD86F64CB51EBE247426631117 (void);
+static Il2CppMethodPointer s_methodPointers[69] = 
+{
+	HighlightOnTouch_Start_m1883C13D1DB4E3BE4CA752E4B50984EF7B9FC49E,
+	HighlightOnTouch_OnPointerDown_mB3532E3B86F7F35C63B4CE8A7FE7222B5EF33626,
+	HighlightOnTouch_OnPointerUp_m6FA1BC7F0D033E3BC93E423EC95A53B5C3779F1D,
+	HighlightOnTouch_OnPointerClicked_m371CCB3F1F6562126ECE07A3B1B9280E9E711E87,
+	HighlightOnTouch_OnPointerDragged_mDE8633EA1DEDF409BC7E5A0D5568DEAD895F81DF,
+	HighlightOnTouch_OnMouseDown_m3F4892B98A92BFDF69993783FB41C96F3167C776,
+	HighlightOnTouch__ctor_mB3B409BA3AEAEE03B4DC7EAA10084422C80EF6EF,
+	MemoryGame_Start_mE04B005A719056C349337FC0B5C68DFFD2CAAA74,
+	MemoryGame_StartNewRound_m34CD953E057056D5AC70EF3778D86B7FB09A9681,
+	MemoryGame_AddToSequence_mBA505B6F80696D520F8E3E821AEF747BF2155188,
+	MemoryGame_ShowSequence_m8AEEC7B6D549D1FA8B75969B4EAD4414D86FAD0F,
+	MemoryGame_CubeTouched_mD0A05F97F8B8160B7AD5471D54EF5C5EB0952DE3,
+	MemoryGame_CheckPlayerSequence_mB137C031C585A3443F036830BA9B7C4EA0A5E626,
+	MemoryGame_GameOver_mA3ED86E37B669EC000A72230049D1921888971EC,
+	MemoryGame__ctor_m11474A8689F3E74BFC9DF3133CBAF94FBE5E2D0C,
+	U3CShowSequenceU3Ed__15__ctor_m48F64D7CE45EFF19F85F5242F6136B77EEAD6D2D,
+	U3CShowSequenceU3Ed__15_System_IDisposable_Dispose_mA8176751F00B3C8C73D97030C9BC127DF8D05DCF,
+	U3CShowSequenceU3Ed__15_MoveNext_mCBE7EC79BF5F8FAD7638285D690D7A975E4C5BCB,
+	U3CShowSequenceU3Ed__15_U3CU3Em__Finally1_m508AA8AAECA91C85D445FCCA37642010AEE33E7E,
+	U3CShowSequenceU3Ed__15_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mAFA92DCDFC14097D57913178CD507AAE4AC106FF,
+	U3CShowSequenceU3Ed__15_System_Collections_IEnumerator_Reset_mFF13E1D0A49B4E066E5FFADE6EB348779102E7F1,
+	U3CShowSequenceU3Ed__15_System_Collections_IEnumerator_get_Current_m916E05384DC45D92B6B986A1D222529DCEF0098D,
+	DirectionalIndicatorController_OnBecameInvisible_m81BAC96F24A8B8FD38A5A1B399194F4E2E9CF353,
+	DirectionalIndicatorController__ctor_mAF93D393485CD7937E4F0A049CAE0D80D17AA0C2,
+	ExplodeViewController_set_IsPunEnabled_m9B9F54E404B03478F23B116EBDA6D22729947B1C,
+	ExplodeViewController_Start_mEBCA23758FC99609617CEE99E5CC6AD1A8E8DD28,
+	ExplodeViewController_Update_m68272F7CABAE057B7402902EACC742A5FD11B266,
+	ExplodeViewController_ToggleExplodedView_m59FB613ADA832339B088AF41B27DF25C59EB6E68,
+	ExplodeViewController_Toggle_mC19D29CA70BFBE320678DC27565EED8AE3775011,
+	ExplodeViewController_add_OnToggleExplodedView_m7B7C12027D19E16A6E136FB760FB843493F87FB5,
+	ExplodeViewController_remove_OnToggleExplodedView_m6D5BED15516C033624058FA746BD3E7A630B738B,
+	ExplodeViewController__ctor_m6B9698AB8508AB45BA9EFE8C003A368F956A39C9,
+	ExplodeViewControllerDelegate__ctor_m00CF199628C294EC4C78DB6BCFE9CA99F31E1187,
+	ExplodeViewControllerDelegate_Invoke_m9475EC90F8EABC05D3124071E6AC55FA93C56D16,
+	ExplodeViewControllerDelegate_BeginInvoke_m4CE6E375D997DAAA0E3FAFF36F4700838C51D958,
+	ExplodeViewControllerDelegate_EndInvoke_m073ACDB10BEA116E55E112E082F114D15ADECD76,
+	PartAssemblyController_set_IsPunEnabled_m3B2755FC9F412A9A80F00E881A43C9E3D71259BD,
+	PartAssemblyController_Start_m7662EBE3717584F93527DFF47EBFF7B17E3CAE74,
+	PartAssemblyController_SetPlacement_m3753B2A0342CD8A54914FFAD1B38D887F1C504C9,
+	PartAssemblyController_Set_m78C7CE4286BD0961DA1318A24C6EA8692CAF18CF,
+	PartAssemblyController_ResetPlacement_m87A7AB3C4C5D3C539EDAB43011E775BC5C6D1646,
+	PartAssemblyController_Reset_m3F1C2A8DEC7F886D75DB1B37F406AA7932399AB5,
+	PartAssemblyController_CheckPlacement_mCD2226DB9D0976415A580C7B4D161A5B0C087D96,
+	PartAssemblyController_add_OnResetPlacement_m05594F373CAAF81B52DCE6B53F7080535AF36A6C,
+	PartAssemblyController_remove_OnResetPlacement_mED257FFBB650024D91B8441D3BD45A8173FCFED2,
+	PartAssemblyController_add_OnSetPlacement_mB02D746A05D3A8CF8260832887C55D53D74649DC,
+	PartAssemblyController_remove_OnSetPlacement_m6EDB130CABBA27EF6539D4A22EF2B451462458BA,
+	PartAssemblyController__ctor_m4C1B83FE2E3CF9F06A2AF8F5D366BBCDECA4B5AC,
+	PartAssemblyControllerDelegate__ctor_m7F2B8D7A6D04834696B8F6F71E84D644D99B68EF,
+	PartAssemblyControllerDelegate_Invoke_mC5F3437F064E32947FFAB510C33A36A1AD8A059C,
+	PartAssemblyControllerDelegate_BeginInvoke_m7671440389FDAA059E71ADFF712A82E1AD7B8CEB,
+	PartAssemblyControllerDelegate_EndInvoke_m09C63B12E14C3681A69C6DC62AFFE9C77685B03C,
+	U3CCheckPlacementU3Ed__25__ctor_mD99D1F68A1B42D45D5E0303134EB8CDEF442F9B0,
+	U3CCheckPlacementU3Ed__25_System_IDisposable_Dispose_m0A3FD3FF6019150BD5AA2392C53BC217DB95477F,
+	U3CCheckPlacementU3Ed__25_MoveNext_mBEFDAA4E1B5E6C090C1C516910FE692C516319AE,
+	U3CCheckPlacementU3Ed__25_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mE0F540979B60424322B424EC85CC6A7F660C014C,
+	U3CCheckPlacementU3Ed__25_System_Collections_IEnumerator_Reset_m9CFCADBFA8E2719A5D2EAED052816115B65083D4,
+	U3CCheckPlacementU3Ed__25_System_Collections_IEnumerator_get_Current_mC1774CBAA3E10DA18E8343A526ACBA70553C607B,
+	PlacementHintsController_set_IsPunEnabled_m1364F13B088427C7258B0AED579757B594B74A0E,
+	PlacementHintsController_Start_m306723AF3759666445826208B8BD76902741002F,
+	PlacementHintsController_TogglePlacementHints_mF5A22F14A17D362A2FAE71EFD314A4BB14D7A28E,
+	PlacementHintsController_Toggle_m5285332F7C240D90986D60F15827EC5718A9FE7D,
+	PlacementHintsController_add_OnTogglePlacementHints_m4BE517DA85E4BC9F742A80F7863D428A2F4DC931,
+	PlacementHintsController_remove_OnTogglePlacementHints_mED93E45F3C670BA58DDF275DE9C576B48D51024C,
+	PlacementHintsController__ctor_m789398D4FEC0B3548A616A086A9CD5121B51DED0,
+	PlacementHintsControllerDelegate__ctor_m6483805F57E4800C0D83C9D905A5C2CE71432B84,
+	PlacementHintsControllerDelegate_Invoke_mFB26FE30BE1AE37EF71E6B55861A49F1125F9554,
+	PlacementHintsControllerDelegate_BeginInvoke_m29B9BE46FFF16EF20BC950660E42F1E0FE71F841,
+	PlacementHintsControllerDelegate_EndInvoke_m158B6288E2B765CD86F64CB51EBE247426631117,
+};
+static const int32_t s_InvokerIndices[69] = 
+{
+	6583,
+	5268,
+	5268,
+	5268,
+	5268,
+	6583,
+	6583,
+	6583,
+	6583,
+	6583,
+	6443,
+	5225,
+	6583,
+	6583,
+	6583,
+	5225,
+	6583,
+	6313,
+	6583,
+	6443,
+	6583,
+	6443,
+	6583,
+	6583,
+	5139,
+	6583,
+	6583,
+	6583,
+	6583,
+	5268,
+	5268,
+	6583,
+	2899,
+	6583,
+	2265,
+	5268,
+	5139,
+	6583,
+	6583,
+	6583,
+	6583,
+	6583,
+	6443,
+	5268,
+	5268,
+	5268,
+	5268,
+	6583,
+	2899,
+	6583,
+	2265,
+	5268,
+	5225,
+	6583,
+	6313,
+	6443,
+	6583,
+	6443,
+	5139,
+	6583,
+	6583,
+	6583,
+	5268,
+	5268,
+	6583,
+	2899,
+	6583,
+	2265,
+	5268,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	69,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL, // module initializer,
+	NULL,
+	NULL,
+	NULL,
+};
